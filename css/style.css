@@ -1,0 +1,55 @@
+@font-face {
+	font-family: myfont;
+	src: url(../fonts/font.ttf);
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background: #9DB9D2;
+}
+
+.container {
+	margin-top: 10px;
+	align-items: center;
+	text-align: center;
+	width: 60%;
+	border: 2px solid #8AA3BB;
+	border-radius: 40px;
+	background-color: #8AA3BB;
+}
+
+.h1 {
+	text-align: center;
+	font-family: myfont;
+	font-size: 35px;
+	color: #fff;
+	padding: 20px 0 10px 0;
+	background: transparent;
+}
+
+.container2 {
+    margin: 0 auto;	
+    padding-top: 8px;
+    align-items: center;
+	width: 60%;
+}
+
+.social {
+	padding-left: 52px;
+	color: #C2D6F3;
+	font-size: 53px;
+}
+
+.point {
+	padding-left: 52px;
+	color: #768EA7;
+	font-size: 53px;
+}
+
+.circle {
+	padding-left: 52px;
+	color: #E5F2FF;
+	font-size: 53px;
+}
